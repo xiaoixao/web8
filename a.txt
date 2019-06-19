@@ -1,2 +1,0 @@
-git add/rm file
-git commit -m "message"
